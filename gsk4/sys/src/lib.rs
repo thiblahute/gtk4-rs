@@ -699,7 +699,6 @@ impl ::std::fmt::Debug for GskTransformNode {
     }
 }
 
-#[link(name = "gtk-4")]
 extern "C" {
 
     //=========================================================================

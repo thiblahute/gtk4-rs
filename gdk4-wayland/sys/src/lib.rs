@@ -170,7 +170,6 @@ impl ::std::fmt::Debug for GdkWaylandToplevel {
     }
 }
 
-#[link(name = "gtk-4")]
 extern "C" {
 
     //=========================================================================
